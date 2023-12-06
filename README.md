@@ -1,1 +1,1 @@
-# PW-Datta-Science-Python-Asssignment-1
+Python Basics Assignment - 1
